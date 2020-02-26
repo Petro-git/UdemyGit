@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         var hello = "Hello git"
 
-
+//some comment
     }
 }
